@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Python & Django :)**
 
-- 📝 I regularly write articles on [https://fsk.gen.tr](https://fsk.gen.tr)
+- 📝 I regularly write articles on [FSK](https://fsk.gen.tr)
 
 - 💬 Ask me about **Python, HTML, CSS, Bootstrap**
 
